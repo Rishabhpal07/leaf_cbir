@@ -51,7 +51,5 @@ env/
 Thumbs.db
 
 # Project-specific
-*.png
-*.jpg
-*.jpeg
+# Only ignore CBIR result images, not dataset images
 cbir_result.png
